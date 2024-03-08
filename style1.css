@@ -1,0 +1,11 @@
+header {
+    background-color: white;
+    color: orange;
+    text-align: center;
+    font-family: fantasy;
+    line-height: 1.5;
+    font-size: 55px;
+    font-weight: 900;
+    text-decoration: teal double underline;
+    text-transform: uppercase;
+}

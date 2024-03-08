@@ -1,0 +1,25 @@
+h1 {
+    color: orange;
+    text-decoration:wavy rgb(71, 14, 14) overline;
+}
+
+button {
+    color: white;
+    background-color: blue;
+}
+
+.first-paragraph {
+    color: rgb(37, 168, 182);
+    font-weight: bold;
+    text-decoration: black underline;
+    /* letter-spacing: 1px; */
+    font-size: 25px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.second-paragraph {
+    color: rgb(234, 133, 133);
+    font-weight: 650;
+    line-height: 1.5;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
